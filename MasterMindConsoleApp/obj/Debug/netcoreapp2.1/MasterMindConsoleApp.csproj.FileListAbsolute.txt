@@ -1,0 +1,11 @@
+C:\Users\AnoukS\source\repos\MasterMindConsoleApp\obj\Debug\netcoreapp2.1\MasterMindConsoleApp.csprojAssemblyReference.cache
+C:\Users\AnoukS\source\repos\MasterMindConsoleApp\obj\Debug\netcoreapp2.1\MasterMindConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\AnoukS\source\repos\MasterMindConsoleApp\obj\Debug\netcoreapp2.1\MasterMindConsoleApp.AssemblyInfoInputs.cache
+C:\Users\AnoukS\source\repos\MasterMindConsoleApp\obj\Debug\netcoreapp2.1\MasterMindConsoleApp.AssemblyInfo.cs
+C:\Users\AnoukS\source\repos\MasterMindConsoleApp\bin\Debug\netcoreapp2.1\MasterMindConsoleApp.deps.json
+C:\Users\AnoukS\source\repos\MasterMindConsoleApp\bin\Debug\netcoreapp2.1\MasterMindConsoleApp.runtimeconfig.json
+C:\Users\AnoukS\source\repos\MasterMindConsoleApp\bin\Debug\netcoreapp2.1\MasterMindConsoleApp.runtimeconfig.dev.json
+C:\Users\AnoukS\source\repos\MasterMindConsoleApp\bin\Debug\netcoreapp2.1\MasterMindConsoleApp.dll
+C:\Users\AnoukS\source\repos\MasterMindConsoleApp\bin\Debug\netcoreapp2.1\MasterMindConsoleApp.pdb
+C:\Users\AnoukS\source\repos\MasterMindConsoleApp\obj\Debug\netcoreapp2.1\MasterMindConsoleApp.dll
+C:\Users\AnoukS\source\repos\MasterMindConsoleApp\obj\Debug\netcoreapp2.1\MasterMindConsoleApp.pdb
